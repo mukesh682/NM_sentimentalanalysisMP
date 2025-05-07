@@ -1,0 +1,5 @@
+2025-05-07 10:08:20,427 - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-07 10:12:21,386 - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-07 10:29:11,686 - this movie is nice  --> POSITIVE (0.9999)
+2025-05-07 10:30:16,891 - the movie was not nice --> NEGATIVE (0.9998)
+2025-05-07 10:31:14,830 - the movie was fabulous --> POSITIVE (0.9999)
